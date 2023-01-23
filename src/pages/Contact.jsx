@@ -122,8 +122,7 @@ export default function Contact() {
               </div>
               <h3 className="text-lg font-medium text-white">Contact information</h3>
               <p className="mt-6 max-w-3xl text-base text-indigo-50">
-                Nullam risus blandit ac aliquam justo ipsum. Quam mauris volutpat massa dictumst amet. Sapien tortor
-                lacus arcu.
+                Please do reach out. We will get back to you soonest. May God Bless You.
               </p>
               <dl className="mt-8 space-y-6">
                 <dt>
@@ -131,14 +130,14 @@ export default function Contact() {
                 </dt>
                 <dd className="flex text-base text-indigo-50">
                   <PhoneIcon className="h-6 w-6 flex-shrink-0 text-indigo-200" aria-hidden="true" />
-                  <span className="ml-3">+1 (555) 123-4567</span>
+                  <span className="ml-3">+1 (510) 695-3633</span>
                 </dd>
                 <dt>
                   <span className="sr-only">Email</span>
                 </dt>
                 <dd className="flex text-base text-indigo-50">
                   <EnvelopeIcon className="h-6 w-6 flex-shrink-0 text-indigo-200" aria-hidden="true" />
-                  <span className="ml-3">support@workcation.com</span>
+                  <span className="ml-3">support@rhf.org</span>
                 </dd>
               </dl>
               <ul role="list" className="mt-8 flex space-x-12">
