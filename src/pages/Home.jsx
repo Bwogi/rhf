@@ -29,7 +29,7 @@ function Home() {
         <div id='about'> <About /> </div>
         <div id="services"><Services /></div>
         <div id='newhere'><NewHere /></div>
-        <div id='ministries'><Inspiration /></div>
+        {/* <div id='ministries'><Inspiration /></div> */}
         
         {/* <Carousel /> */}
         {/* <Creatives /> */}

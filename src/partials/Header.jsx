@@ -41,14 +41,14 @@ function Header() {
                   Services
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#ministries"
                 >
                   Ministries
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
                   className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
