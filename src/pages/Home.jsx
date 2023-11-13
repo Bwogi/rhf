@@ -15,6 +15,7 @@ import NewHere from './NewHere';
 import About from './About';
 import Contact from './Contact';
 import Services from './Services';
+import SearchByDate from './SearchByDate';
 
 function Home() {
   return (
@@ -26,6 +27,7 @@ function Home() {
       <main className="grow">
         {/*  Page sections */}
         <Hero />
+        <SearchByDate />
         <div id='about'> <About /> </div>
         <div id="services"><Services /></div>
         <div id='newhere'><NewHere /></div>

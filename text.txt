@@ -1,0 +1,59 @@
+Andrew Bwogi
+create a cv for a fullstack MERN developer
+1 / 2
+
+Full Stack MERN Developer
+
+Summary:
+Experienced Full Stack MERN Developer with 4+ years of hands-on experience in designing and developing scalable, high-performance web applications. Proficient in ReactJS, NodeJS, MongoDB, and ExpressJS. Strong understanding of JavaScript, HTML, CSS, and jQuery. Possess excellent problem-solving, communication, and teamwork skills.
+
+Technical Skills:
+
+    MERN Stack: ReactJS, NodeJS, MongoDB, ExpressJS
+    JavaScript, HTML, CSS, and jQuery
+    RESTful API Development
+    Agile Methodologies and Scrum
+    Git and GitHub
+    AWS and Heroku
+
+Work Experience:
+
+Full Stack MERN Developer
+ABC Company, New York, NY
+June 2020 - Present
+
+    Worked with a team of developers to design and develop complex web applications using the MERN stack
+    Developed and maintained React components for the frontend and RESTful APIs for the backend
+    Implemented server-side validation, authentication, and authorization using NodeJS and ExpressJS
+    Utilized MongoDB to store and retrieve data from the database
+    Deployed the web application to AWS and Heroku
+    Conducted code reviews and provided feedback to junior developers
+
+Full Stack Developer
+XYZ Inc., Los Angeles, CA
+January 2019 - May 2020
+
+    Designed and developed web applications using the MERN stack
+    Built dynamic, responsive user interfaces using ReactJS and CSS
+    Implemented RESTful APIs using NodeJS and ExpressJS
+    Used MongoDB to store and retrieve data from the database
+    Collaborated with the design team to ensure the web application met the requirements
+    Participated in code reviews and bug fixing
+
+Education:
+
+Bachelor of Science in Computer Science
+University of California, Los Angeles
+September 2015 - June 2019
+
+Certifications:
+
+    ReactJS Fundamentals, FreeCodeCamp
+    NodeJS Fundamentals, Udemy
+
+Personal Projects:
+
+    Online Shopping Cart: Built an e-commerce web application using the MERN stack
+    To-Do List Application: Developed a to-do list application using ReactJS and NodeJS
+
+References: Available upon request.
