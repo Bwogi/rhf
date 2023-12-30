@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import Logo from '/images/restorationHouseFellowship-logo.png'
+import React from "react";
+import { Link } from "react-router-dom";
+import Logo from "/images/restorationHouseFellowship-logo.png";
 
 function Header() {
   return (
@@ -10,7 +10,7 @@ function Header() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             <Link className="block group" to="/" aria-label="logo">
-              <img src={Logo} alt="logo" className='h-[150px]' />
+              <img src={Logo} alt="logo" className="h-[150px]" />
             </Link>
           </div>
           {/* Desktop navigation */}
@@ -19,7 +19,7 @@ function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#newhere"
                 >
                   New Here?
@@ -27,7 +27,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#about"
                 >
                   Who We Are
@@ -35,7 +35,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#services"
                 >
                   Services
@@ -43,7 +43,7 @@ function Header() {
               </li>
               {/* <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#ministries"
                 >
                   Ministries
@@ -51,7 +51,7 @@ function Header() {
               </li> */}
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#blog"
                 >
                   Blog
@@ -59,14 +59,17 @@ function Header() {
               </li>
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#077CB5] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#contact"
                 >
                   Contact
                 </a>
               </li>
               <li className="ml-3">
-                <Link className="btn-sm text-white bg-[#077CB5] hover:bg-[#1d5977] hover:text-white w-full shadow-sm" to="/">
+                <Link
+                  className="btn-sm text-white bg-[#1d5977] hover:bg-[#fea602] hover:text-white w-full shadow-sm"
+                  to="/"
+                >
                   Give
                 </Link>
               </li>
