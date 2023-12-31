@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import LogoDark from "/images/restorationHouseFellowship-logo-dark.png";
+import LogoDark from "/images/restorationHouseMinistries-logo-dark.png";
 
 function Footer() {
   return (

@@ -49,9 +49,9 @@ function Home() {
           <Blog />
         </div>
         <Cta />
-        <div id="contact">
+        {/* <div id="contact">
           <Contact />
-        </div>
+        </div> */}
       </main>
 
       {/*  Site footer */}

@@ -42,7 +42,7 @@ export default function About() {
     // <div className="bg-white py-24 sm:py-32 lg:py-40">
     //   <div className="mx-auto max-w-7xl px-6 lg:px-8">
     //     <div className="sm:text-center">
-    //       <h2 className="text-lg font-semibold leading-8 text-[#077CB5]">About Restoration House Fellowship, San Francisco, California</h2>
+    //       <h2 className="text-lg font-semibold leading-8 text-[#077CB5]">About Restoration House Ministries, San Francisco, California</h2>
     //       <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Our main goal is to help create a community of people growing together while celebrating the goodness of the Almighty God.</p>
     //       <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600">
     //       We believe that salvation is by grace alone through faith alone in Christ alone.
@@ -52,7 +52,7 @@ export default function About() {
     //     <div className="mt-0 max-w-lg sm:mx-auto md:max-w-none">
     //     <div className='py-12'>
     //         <h3 className='text-4xl text-[#077CB5] py-3'>Core Values</h3>
-    //         <p>Our values are meant to bring clarity to the things that matter most at Restoration House Fellowship. They guide how we achieve our mission and influence leadership decisions as well as daily ministry plans.</p>
+    //         <p>Our values are meant to bring clarity to the things that matter most at Restoration House Ministries. They guide how we achieve our mission and influence leadership decisions as well as daily ministry plans.</p>
     //     </div>
     //       <div className="grid grid-cols-1 gap-y-16 md:grid-cols-2 md:gap-x-12 md:gap-y-16">
     //         {features.map((feature) => (

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "/images/restorationHouseFellowship-logo.png";
+import Logo from "/images/restorationHouseMinistries-logo.png";
 
 // import Avatar from '../images/join-avatar.jpg';
 
@@ -46,7 +46,7 @@ function SignUp() {
                   {/* <img className="rounded-full" src={Avatar} width="48" height="48" alt="Avatar 01" /> */}
                 </div>
                 <h1 className="h2 font-cabinet-grotesk">
-                  You've been invited to Join the Restoration House Fellowship
+                  You've been invited to Join the Restoration House Ministries
                 </h1>
               </div>
               {/* Form */}

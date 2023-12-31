@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "/images/restorationHouseFellowship-logo.png";
+import Logo from "/images/restorationHouseMinistries-logo.png";
 
 function SignIn() {
   return (

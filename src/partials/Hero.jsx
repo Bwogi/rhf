@@ -51,7 +51,7 @@ function Hero() {
                 We are a bible believing Church. We create experiences where you
                 and your family can Know God, Grow Closer to Him and Serve Him.
                 Learn about all the different ways you can get connected at the
-                Restoration House Fellowship! We surely want you to discover all
+                Restoration House Ministries! We surely want you to discover all
                 that God has for you.
               </p>
               {/* Buttons */}
@@ -62,7 +62,7 @@ function Hero() {
               >
                 <div>
                   <Link
-                    className="btn bg-blue-100 text-[#174054] hover:bg-[#dead54] hover:text-white w-full shadow-sm"
+                    className="btn text-white bg-[#174054] hover:bg-[#dead54] w-full shadow-sm"
                     to="/signup"
                   >
                     Join Our Community

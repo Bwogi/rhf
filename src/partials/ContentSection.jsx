@@ -16,7 +16,7 @@ export default function ContentSection() {
                   Grow closer to God
                 </h2>
                 <p className="mt-4 text-lg text-gray-500">
-                  Restoration House Fellowship is not a just building structure,
+                  Restoration House Ministries is not a just building structure,
                   it is us, the people who make up the church with opportunities
                   to stay connected. We create community through ministries
                   which allows us to feel and stay connected throughout the
