@@ -65,7 +65,7 @@ function Hero() {
                     className="btn bg-blue-100 text-[#174054] hover:bg-[#dead54] hover:text-white w-full shadow-sm"
                     to="/signup"
                   >
-                    Join The Community
+                    Join Our Community
                   </Link>
                 </div>
                 <div>
@@ -84,7 +84,7 @@ function Hero() {
                 data-aos-delay="400"
               >
                 <div>
-                  <div className="font-cabinet-grotesk text-2xl font-extrabold">
+                  <div className="font-cabinet-grotesk text-2xl font-extrabold text-[#fea602]">
                     <Link to="/">Sermons</Link>{" "}
                   </div>
                   <div className="text-gray-500">Past Sermons</div>
@@ -101,7 +101,7 @@ function Hero() {
                   />
                 </svg>
                 <div>
-                  <div className="font-cabinet-grotesk text-2xl font-extrabold">
+                  <div className="font-cabinet-grotesk text-2xl font-extrabold text-[#fea602]">
                     <Link to="/">Events</Link>
                   </div>
                   <div className="text-gray-500">New Preachers & events </div>
@@ -118,7 +118,7 @@ function Hero() {
                   />
                 </svg>
                 <div>
-                  <div className="font-cabinet-grotesk text-2xl font-extrabold">
+                  <div className="font-cabinet-grotesk text-2xl font-extrabold text-[#fea602]">
                     <Link to="/">Give</Link>{" "}
                   </div>
                   <div className="text-gray-500">Support God's Work</div>

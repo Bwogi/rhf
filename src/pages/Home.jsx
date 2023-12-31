@@ -32,12 +32,12 @@ function Home() {
           {" "}
           <About />{" "}
         </div>
-        <div id="services">
+        {/* <div id="services">
           <Services />
-        </div>
-        <div id="newhere">
+        </div> */}
+        {/* <div id="newhere">
           <NewHere />
-        </div>
+        </div> */}
         {/* <div id='ministries'><Inspiration /></div> */}
 
         {/* <Carousel /> */}
