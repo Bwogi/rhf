@@ -101,7 +101,7 @@ export default function About() {
             </div>
           </div>
           <div className="lg:flex lg:flex-auto lg:justify-center">
-            <dl className="w-64 space-y-8 xl:w-80">
+            {/* <dl className="w-64 space-y-8 xl:w-80">
               {stats.map((stat) => (
                 <div key={stat.label} className="flex flex-col-reverse gap-y-4">
                   <dt className="text-base leading-7 text-gray-600">
@@ -112,7 +112,7 @@ export default function About() {
                   </dd>
                 </div>
               ))}
-            </dl>
+            </dl> */}
           </div>
         </div>
       </div>
