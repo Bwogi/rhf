@@ -78,12 +78,18 @@ export default function About() {
         <div className="mt-6 flex flex-col gap-x-8 gap-y-20 lg:flex-row">
           <div className="lg:w-full lg:max-w-2xl lg:flex-auto">
             <p className="text-xl leading-8 text-gray-600">
-              Our mission is to spread God's love across families, communities,
-              cities, and nations. Committed to the transformative power of
-              God's Word, Faith, and prayer, we impact lives with love, focusing
-              on healing and transformation in families, communities, cities,
-              and nations.
+              As a united community, our mission is to joyfully celebrate
+              Christ, obediently following His command in Mark 16:15. He said to
+              them, "Go into all the world and preach the gospel to all
+              creation."
             </p>
+            <p>
+              Together, we spread the life-giving Word of God, reaching out with
+              the love of Jesus. Individually and collectively, we strive for
+              the salvation of mankind and the nurturing of a Godfearing
+              generation within our families, communities, cities, and nations.
+            </p>
+
             <div className="mt-10 max-w-xl text-base leading-7 text-gray-700">
               <p>
                 Restoration House Ministries emerged from a dedicated community

@@ -48,11 +48,11 @@ function Hero() {
                 data-aos="fade-right"
                 data-aos-delay="200"
               >
-                We are a bible believing Church. We create experiences where you
-                and your family can Know God, Grow Closer to Him and Serve Him.
-                Learn about all the different ways you can get connected at the
-                Restoration House Ministries! We surely want you to discover all
-                that God has for you.
+                Committed to the transformative power of God's Word, Faith, and
+                prayer, we impact lives with love, focusing on healing and
+                transformation in families, communities, cities, and nations. We
+                spread God's love across families, communities, cities, and
+                nations.
               </p>
               {/* Buttons */}
               <div
