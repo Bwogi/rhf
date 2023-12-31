@@ -62,7 +62,7 @@ function Hero() {
               >
                 <div>
                   <Link
-                    className="btn text-white bg-[#174054] hover:bg-[#1d5977] w-full shadow-sm"
+                    className="btn bg-blue-100 text-[#174054] hover:bg-[#dead54] hover:text-white w-full shadow-sm"
                     to="/signup"
                   >
                     Join The Community
@@ -70,7 +70,7 @@ function Hero() {
                 </div>
                 <div>
                   <Link
-                    className="btn text-gray-600 bg-white hover:bg-blue-100 hover:text-[#174054] w-full shadow-sm"
+                    className="btn text-gray-600 bg-white hover:bg-[#dead54] hover:text-white  w-full shadow-sm"
                     to="/signin"
                   >
                     Sign In

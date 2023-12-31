@@ -125,7 +125,7 @@ function SignUp() {
                       Go to Login
                     </Link>
                     <div className="ml-2">
-                      <button className="btn-sm text-white bg-[#174054] hover:bg-[#1d5977] shadow-sm">
+                      <button className="btn-sm text-white bg-[#dead54] hover:bg-[#fea602] shadow-sm">
                         Join The Community
                       </button>
                     </div>
@@ -147,7 +147,7 @@ function SignUp() {
                         </a>{" "}
                         and{" "}
                         <a
-                          className="underline hover:decoration-blue-500 underline-offset-2 hover:underline"
+                          className="underline hover:decoration-[#fea602] underline-offset-2 hover:underline"
                           href="#0"
                         >
                           privacy policy
