@@ -73,7 +73,7 @@ function SignIn() {
                   </div>
                   <div className="flex flex-wrap items-center justify-between mt-6">
                     <Link
-                      className="font-medium text-sm sm:text-base text-[#174054] decoration-[#174054] decoration-2 underline-offset-2 hover:underline"
+                      className="btn text-orange-700 border border-orange-300 bg-white hover:bg-orange-100 w-full shadow-sm"
                       to="/signup"
                     >
                       Join Our Community
@@ -85,7 +85,7 @@ function SignIn() {
                     </div>
                   </div>
                 </form>
-                <div className="flex items-center my-6">
+                {/* <div className="flex items-center my-6">
                   <div
                     className="border-t border-gray-200 grow mr-3"
                     aria-hidden="true"
@@ -114,7 +114,7 @@ function SignIn() {
                       </button>
                     </div>
                   </div>
-                </form>
+                </form> */}
               </div>
             </div>
           </div>

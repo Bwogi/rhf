@@ -19,7 +19,8 @@ function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-gray-300 decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  // className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#newhere"
                 >
                   New Here?
@@ -27,7 +28,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-gray-300 decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#about"
                 >
                   Who We Are
@@ -35,7 +36,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-gray-300 decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#services"
                 >
                   Services
@@ -51,7 +52,7 @@ function Header() {
               </li> */}
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-gray-300 decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#blog"
                 >
                   Blog
@@ -59,7 +60,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  className="font-medium text-gray-600 decoration-[#fea602] decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-gray-600 decoration-gray-300 decoration-2 underline-offset-2 hover:underline px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out"
                   href="#contact"
                 >
                   Contact
@@ -67,7 +68,9 @@ function Header() {
               </li>
               <li className="ml-3">
                 <Link
-                  className="btn-sm text-white bg-[#dead54] hover:bg-[#fea602] hover:text-white w-full shadow-sm"
+                  className="btn text-orange-700 border border-orange-300 bg-white hover:bg-orange-100 w-full shadow-sm"
+                  // className="btn text-blue-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm"
+                  // className="btn-sm text-white bg-[#dead54] hover:bg-[#fea602] hover:text-white w-full shadow-sm"
                   to="/"
                 >
                   Give
