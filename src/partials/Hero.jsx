@@ -62,7 +62,7 @@ function Hero() {
               >
                 <div>
                   <Link
-                    className="btn text-gray-700 border border-orange-100 bg-white hover:bg-orange-100 w-full shadow-sm"
+                    className="btn text-gray-700 bg-orange-100 border border-orange-100 hover:bg-white w-full shadow-sm"
                     // className="btn text-gray-700 border border-gray-300 bg-white hover:bg-gray-100 w-full shadow-sm"
                     // className="btn text-white bg-[#174054] hover:bg-[#dead54] w-full shadow-sm"
                     to="/signup"

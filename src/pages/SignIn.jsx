@@ -75,9 +75,7 @@ function SignIn() {
                     <Link
                       className="btn text-orange-700 border border-orange-300 bg-white hover:bg-orange-100 w-full shadow-sm"
                       to="/signup"
-                    >
-                      Join Our Community
-                    </Link>
+                    ></Link>
                     <div className="ml-2">
                       <button className="btn-sm text-white bg-[#fea602 ] hover:bg-[#1d5977] shadow-sm">
                         Sign in
