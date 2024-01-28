@@ -62,7 +62,7 @@ function Hero() {
               >
                 <div>
                   <Link
-                    className="btn text-orange-700 border border-orange-300 bg-white hover:bg-orange-100 w-full shadow-sm"
+                    className="btn text-gray-700 border border-orange-100 bg-white hover:bg-orange-100 w-full shadow-sm"
                     // className="btn text-gray-700 border border-gray-300 bg-white hover:bg-gray-100 w-full shadow-sm"
                     // className="btn text-white bg-[#174054] hover:bg-[#dead54] w-full shadow-sm"
                     to="/signup"
@@ -72,7 +72,7 @@ function Hero() {
                 </div>
                 <div>
                   <Link
-                    className="btn text-gray-700 border border-gray-100 bg-white hover:bg-gray-100 w-full shadow-sm"
+                    className="btn text-gray-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm"
                     // className="btn text-gray-600 bg-white hover:bg-[#dead54] hover:text-white  w-full shadow-sm"
                     to="/signin"
                   >
@@ -87,7 +87,7 @@ function Hero() {
                 data-aos-delay="400"
               >
                 <div>
-                  <div className="btn text-blue-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm">
+                  <div className="btn text-gray-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm">
                     <Link to="/">Sermons</Link>{" "}
                   </div>
                   <div className="text-gray-500">Past Sermons</div>
@@ -104,7 +104,7 @@ function Hero() {
                   />
                 </svg>
                 <div>
-                  <div className="btn text-blue-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm">
+                  <div className="btn text-gray-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm">
                     <Link to="/">Events</Link>
                   </div>
                   <div className="text-gray-500">New Preachers & events </div>
@@ -121,7 +121,7 @@ function Hero() {
                   />
                 </svg>
                 <div>
-                  <div className="btn text-orange-700 border border-orange-300 bg-white hover:bg-orange-100 w-full shadow-sm">
+                  <div className="btn text-gray-700 border border-orange-100 bg-white hover:bg-orange-100 w-full shadow-sm">
                     {/* <div className="btn text-blue-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm"> */}
                     {/* className="font-cabinet-grotesk text-2xl font-extrabold text-[#fea602]"> */}
                     <Link to="/">Give</Link>{" "}
