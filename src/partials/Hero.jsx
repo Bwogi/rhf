@@ -87,7 +87,7 @@ function Hero() {
                 data-aos-delay="400"
               >
                 <div>
-                  <div className="btn text-gray-700 border border-blue-50 bg-white hover:bg-blue-100 w-full shadow-sm">
+                  <div className="btn text-gray-700 border border-orange-100 bg-white hover:bg-blue-100 w-full shadow-sm">
                     <Link to="/">Sermons</Link>{" "}
                   </div>
                   <div className="text-gray-500">Past Sermons</div>
@@ -104,7 +104,7 @@ function Hero() {
                   />
                 </svg>
                 <div>
-                  <div className="btn text-gray-700 border border-blue-50 bg-white hover:bg-blue-100 w-full shadow-sm">
+                  <div className="btn text-gray-700 border border-orange-100 bg-white hover:bg-blue-100 w-full shadow-sm">
                     <Link to="/">Events</Link>
                   </div>
                   <div className="text-gray-500">New Preachers & events </div>
@@ -121,7 +121,7 @@ function Hero() {
                   />
                 </svg>
                 <div>
-                  <div className="btn text-gray-700 border border-blue-50 bg-white hover:bg-blue-100 w-full shadow-sm">
+                  <div className="btn text-gray-700 border border-orange-100 bg-white hover:bg-blue-100 w-full shadow-sm">
                     {/* <div className="btn text-blue-700 border border-blue-100 bg-white hover:bg-blue-100 w-full shadow-sm"> */}
                     {/* className="font-cabinet-grotesk text-2xl font-extrabold text-[#fea602]"> */}
                     <Link to="/">Give</Link>{" "}
